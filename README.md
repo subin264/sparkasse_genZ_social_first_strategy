@@ -17,7 +17,7 @@ financial platform targeting Gen Z customer acquisition.
 
 ## My Approach
 - Analysed Gen Z communication gap in German retail banking
-- Designed platform native initiative beyond campaign-level solutions
+- Designed platform native initiative beyond campaign level solutions
 - Developed business case with ROI logic and long-term impact framework
 - Integrated AI as a core functional tool throughout the strategy
 
